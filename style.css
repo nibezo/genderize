@@ -1,0 +1,31 @@
+body {
+	/* flex - отображение с помощью стилей flex */
+	display: flex;
+	/* Отображение элементов в столбец */
+	flex-direction: column;
+	/* Выровнять по вертикали */
+	align-items: center;
+	/* Отступ */
+	margin: 100px;
+	/* Цвет фона */
+	background-color: #bba0cd;
+	/* Цвет текста */
+	color: black;
+	/* Размер текста */
+	font-size: 50px;
+}
+
+button {
+	font-size: 50px;
+	/* Отступ сверху */
+	margin-top: 100px;
+	border-radius: 5px;
+}
+
+input {
+	font-size: 50px;
+}
+
+h1 {
+	font-size: 70px;
+}
